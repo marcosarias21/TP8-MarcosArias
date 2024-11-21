@@ -8,6 +8,8 @@ def mostrar_informacion_alumno():
         st.markdown('**Legajo:** 50.665')
         st.markdown('**Nombre:** Marcos Arias')
         st.markdown('**Comisión:** C2')
+        
+##URL:
 
 # Función para calcular estadísticas y graficar
 def calcular_estadisticas(datos, sucursal=None):
